@@ -1,1 +1,1 @@
-script that prints “Hello, World”, followed by a new line to the standard output
+Best School ending by a new line
